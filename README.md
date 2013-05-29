@@ -1,6 +1,6 @@
 # `color-ssh.plugin.zsh`
 Change the theme as you SSH into production boxes. An
-[oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh). Requires OS X.
+[oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) plugin. Requires OS X.
 
 ## Introduction
 
@@ -26,7 +26,7 @@ an example:
 
 ## License
 
-color-ssh is licensed under the same terms as oh-my-zsh itself (see 
+`color-ssh` is licensed under the same terms as `oh-my-zsh` itself (see 
 [the README](https://github.com/robbyrussell/oh-my-zsh#readme)).
 
 ## Thanks
