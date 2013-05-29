@@ -1,0 +1,7 @@
+# Examples...
+Default:Solarized Dark xterm-256color
+my-dev-host:Ocean
+my-qa-host:Grass
+my-uat-host:Novel
+my-production-host:Red Sands
+my-other-production-host:Red Sands
