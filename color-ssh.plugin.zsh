@@ -19,7 +19,7 @@ set_color() {
     host=${1}
     color=$(awk -F':' '$1 ~ /'${host}'/ { print $2; exit }' ${color_file})
     if [[ ! -z ${color} ]]; then
-        osascript -e 'tell application "Terminal" to set current settings of selected tab of window 1 to (first settings set whose name is "'${color}'")'
+        osascript -e 'tell application "iTerm" to set the background color of the current session of the current terminal to "'${color}'"'
     fi
 }
 
