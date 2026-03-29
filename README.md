@@ -1,6 +1,6 @@
 # `color-ssh.plugin.zsh`
-Change the theme as you SSH into production boxes. An
-[oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) plugin. Requires OS X.
+Change the theme as you SSH into production boxes. If we're still doing that. An
+[oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) plugin for macOS.
 
 ## Introduction
 
@@ -12,7 +12,7 @@ open and one of them is connected to a production host.
 Clone the plugin into your Oh My Zsh custom plugins directory:
 
     cd $ZSH_CUSTOM/plugins/
-    git clone git://github.com/johnsyweb/color-ssh
+    git clone https://github.com/johnsyweb/color-ssh
 
 ### Enabling the plugin
 
@@ -43,7 +43,5 @@ an example:
 
 If you find this plug-in useful, please follow this repository on
 [GitHub](https://github.com/johnsyweb/color-ssh). If you have
-something to say, you can contact [johnsyweb](http://johnsy.com/about/) on
-[Twitter](http://twitter.com/johnsyweb/) and
-[GitHub](https://github.com/johnsyweb/).
+something to say, you can contact [johnsyweb](https://www.johnsy.com/contact/).
 
