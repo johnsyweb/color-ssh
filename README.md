@@ -9,8 +9,18 @@ open and one of them is connected to a production host.
 
 ## Installation
 
+Clone the plugin into your Oh My Zsh custom plugins directory:
+
     cd $ZSH_CUSTOM/plugins/
     git clone git://github.com/johnsyweb/color-ssh
+
+### Enabling the plugin
+
+Cloning alone does not load the plugin. Add `color-ssh` to the `plugins` array in your `~/.zshrc` (see the [Oh My Zsh plugins wiki](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)):
+
+    plugins=(git color-ssh)
+
+Use spaces between names; **do not** separate plugin names with commas. Add any other plugins you already use to the same array, then reload your configuration (`source ~/.zshrc`) or open a new terminal.
 
 ## Settings
 
