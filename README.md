@@ -36,8 +36,7 @@ an example:
 
 ## License
 
-`color-ssh` is licensed under the same terms as `oh-my-zsh` itself (see 
-[the README](https://github.com/robbyrussell/oh-my-zsh#readme)).
+`color-ssh` is released under the [MIT License](LICENSE).
 
 ## Thanks
 
